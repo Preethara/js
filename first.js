@@ -1,5 +1,5 @@
 //my first js file
-//to run js file in terminal   CODE : node  file_name.extn
+//to run js file via node terminal   CODE : node  file_name.extn
 console.log("Hello world");
 let var1 = 10; //number
 console.log(var1);
